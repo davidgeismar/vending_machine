@@ -1,0 +1,1 @@
+check if protected means that it can only be called from an outside class through a public method
